@@ -1,14 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Daren
-==============================================================================================================================
+# 👋 Hey, I'm Daren  
+### 🚀 Building intelligent systems that interact with the real world  
 
-Bridging embedded systems, robotics, and modern software
---------------------------------------------------------
-
-* 🌍  I'm based in Toronto
-* ✉️  You can contact me at [darenchu117@gmail.com](mailto:darenchu117@gmail.com)
-* 🧠  I'm currently learning LLMs
-* 💬  Ask me about I secretly wished I did EE Instead
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Robotics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Computer%20Vision-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded-Systems-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROS2-Autonomous-red?style=for-the-badge" />
 </p>
+
+---
+
+## 🧠 About Me  
+💡 Engineering-focused developer passionate about bridging **software, hardware, and AI**  
+🤖 Building **autonomous robotic systems** with real-world applications  
+🔍 Interested in **computer vision, perception, and human-robot interaction**  
+⚙️ From PCB design → AI models → full system integration  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" />
+</p>
+
+### ⚙️ Tools & Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,flask,git,linux" />
+</p>
+
+### 🔌 Hardware & Systems  
+`Raspberry Pi` • `LiDAR` • `Embedded Systems` • `KiCad` • `Multisim`
+
+---
+
+## 🚀 Featured Projects  
+
+### 🏥 Autonomous Hospital Rover  
+> Semi-autonomous robot designed for healthcare environments  
+
+- 🧭 LiDAR + camera fusion for navigation  
+- 👁️ YOLO-based real-time object detection  
+- 🎤 Voice interaction (on-device speech recognition)  
+- 🌐 Flask-based control + live video streaming  
+
+---
+
+### 🚶 Gait Analysis System  
+> Biomedical signal processing using real-world datasets  
+
+- 📊 EMG signal filtering & noise reduction  
+- 📈 Stride interval anomaly detection  
+- 🧠 Data sourced from PhysioNet  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🎯 Current Focus  
+
+```
+- Autonomous Navigation (LiDAR + Vision Fusion)
+- Edge AI on Raspberry Pi
+- ROS2 System Integration
+- Human-Robot Interaction
+```
+
+---
+
+## 📫 Connect With Me  
+
+<p>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+I enjoy building systems where code doesn’t just run — it **moves, senses, and interacts with the world**.
