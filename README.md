@@ -31,7 +31,7 @@
 </p>
 
 ### 🔌 Hardware & Systems  
-`Raspberry Pi` • `LiDAR` • `Embedded Systems` • `KiCad` • `Multisim`
+`Raspberry Pi` • `LiDAR` • `Embedded Systems` • `KiCad` • `Multisim`• `Altium`• `Freecad`
 
 ---
 
@@ -70,8 +70,8 @@
 ```
 - Autonomous Navigation (LiDAR + Vision Fusion)
 - Edge AI on Raspberry Pi
-- ROS2 System Integration
-- Human-Robot Interaction
+- Learning LLMs and RAG
+- Deplyoing/Scaling and automation 
 ```
 
 ---
@@ -90,4 +90,4 @@
 ---
 
 ## ⚡ Fun Fact  
-I enjoy building systems where code doesn’t just run — it **moves, senses, and interacts with the world**.
+I enjoy building systems where code doesn’t just run **.
