@@ -31,7 +31,7 @@
 </p>
 
 ### 🔌 Hardware & Systems  
-`Raspberry Pi` • `LiDAR` • `Embedded Systems` • `KiCad` • `Multisim`• `Altium`• `Freecad`
+`Raspberry Pi` • `LiDAR` • `Embedded Systems` • `KiCad` • `Multisim`•  `Altium`•  `Freecad`
 
 ---
 
@@ -90,4 +90,4 @@
 ---
 
 ## ⚡ Fun Fact  
-I enjoy building systems where code doesn’t just run **.
+I enjoy building systems where code doesn’t just run.
