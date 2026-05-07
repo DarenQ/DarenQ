@@ -90,4 +90,4 @@
 ---
 
 ## ⚡ Fun Fact  
-I enjoy building systems where code doesn’t just run.
+I enjoy building systems where code doesn't run 
